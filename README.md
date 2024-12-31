@@ -24,7 +24,7 @@ A modern React application showcasing the world's most expensive luxury cars, bu
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/AKSHAYBURUNGAL/ExpensiveCarsWebsite.git
 ```
 
 2. Install dependencies:
