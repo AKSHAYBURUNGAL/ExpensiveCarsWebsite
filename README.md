@@ -2,7 +2,7 @@
 
 A modern React application showcasing the world's most expensive luxury cars, built with React, TypeScript, and Tailwind CSS.
 
-![App Screenshot](https://images.unsplash.com/photo-1631295868223-63265b40d9e4?auto=format&fit=crop&w=800)
+![alt text](<Screenshot from 2024-12-29 18-39-45-1.png>)
 
 ## Features
 
